@@ -22,5 +22,3 @@ In nowadays I work with Java, and I have knowledge with the Spring framework. Be
 </div>
 
 ##
-
-![Snake animation](https://github.com/C410lol/C410lol/blob/output/github-contribution-grid-snake.svg)
