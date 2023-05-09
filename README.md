@@ -1,5 +1,7 @@
 ### System.out.println("Hello 👋! My name is Caio and welcome to my profile. I hope you are not stalking me 😡... Just kidding 😅");
 
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Apache-Kafka" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
