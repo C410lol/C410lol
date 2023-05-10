@@ -2,7 +2,7 @@
 
 ##
 
-In nowadays I work with Java, and I have knowledge with the Spring framework. Beyond relational databases using SQL, like PostgreSQL. Have a look on my repositories to know more about my works 😉.
+In nowadays I work with Java, I have knowledge with the Spring framework and Microservices. Beyond relational databases using SQL, like PostgreSQL. Have a look on my repositories to know more about my works 😉.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Apache-Kafka" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
