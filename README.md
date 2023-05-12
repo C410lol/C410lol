@@ -19,7 +19,7 @@ In nowadays I work with Java, I have knowledge with the Spring framework and Mic
 <div> 
  <a href="https://discordapp.com/users/589812207517171712" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gcaio7463@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-gomes-3a456b262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-gomes-3a456b262/" target="_blank"></a>
 </div>
 
 ##
