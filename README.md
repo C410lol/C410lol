@@ -4,6 +4,11 @@
 
 In nowadays I work with Java, I have knowledge with the Spring framework and Microservices. Beyond relational databases using SQL, like PostgreSQL. Have a look on my repositories to know more about my works 😉.
 
+I'm currently learning front-end:
+- HTML
+- CSS
+- JavaScript
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Apache-Kafka" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
   <img align="center" alt="Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
