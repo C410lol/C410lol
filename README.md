@@ -18,8 +18,9 @@ I'm currently learning front-end:
   <img align="center" alt="Spring" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Kafka" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
+  <img align="center" alt="Angular" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/> 
   <img align="right" alt="C410lol-pic" height="150" style="border-radius:50px;" 
-       src="https://media.discordapp.net/attachments/759784802198093855/1105603396850958386/WhatsApp_Image_2023-05-09_at_18.12.51.jpeg?width=481&height=480">
+       src="https://media.discordapp.net/attachments/759784802198093855/1105603396850958386/WhatsApp_Image_2023-05-09_at_18.12.51.jpeg?width=481&height=480">     
 </div>
 
 ##
