@@ -5,6 +5,8 @@
 In nowadays I work with Java, I have knowledge with the Spring framework and Microservices. Beyond relational databases using SQL, like PostgreSQL. Have a look on my repositories to know more about my works 😉.
 
 I'm currently learning front-end:
+- ANGULAR
+- TypeScript
 - HTML
 - CSS
 - JavaScript
