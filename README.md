@@ -1,51 +1,51 @@
-# Olá, eu sou Caio Gomes 👋
+# Hello, I'm Caio Gomes 👋
 
-🎓 Estudante de **Sistemas de Informação na UTFPR**.
+🎓 **Information Systems student at UTFPR**.
 
-💻 Tenho interesse em desenvolvimento de software, especialmente no desenvolvimento **Back-end com Java e Spring Boot**. Gosto de transformar ideias em aplicações funcionais e de aprender por meio de projetos práticos, explorando também desenvolvimento Front-end e C++.
+💻 I'm interested in software development, especially **Back-end development with Java and Spring Boot**. I enjoy turning ideas into functional applications and learning through hands-on projects, while also exploring Front-end development and C++.
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 **Back-end**
-- Java e Spring Boot
+- Java and Spring Boot
 - Spring Security, JPA / Hibernate
-- Node.js e Express
+- Node.js and Express
 
 **Front-end**
 - Angular
-- JavaScript e TypeScript
+- JavaScript and TypeScript
 - Vue.js
-- HTML e CSS
+- HTML and CSS
 
-**Bancos de dados**
+**Databases**
 - PostgreSQL
 - MongoDB
 - SQL
 
-**Outras ferramentas e tecnologias**
-- C e C++
+**Other tools and technologies**
+- C and C++
 - SFML
-- Git e GitHub
+- Git and GitHub
 - CMake
 
-## 🚀 Projetos públicos em destaque
+## 🚀 Featured public projects
 
 ### [Teacher Notes Hub](https://github.com/C410lol/teacher-notes-hub-api)
-Plataforma para organização de registros escolares, com recursos relacionados a cadernetas, alunos, aulas, frequência e avaliações. Desenvolvida com uma API Java/Spring Boot e uma interface Angular.
+A platform for organizing school records, with features related to school notebooks, students, lessons, attendance, and assessments. Built with a Java/Spring Boot API and an Angular interface.
 
 - [API](https://github.com/C410lol/teacher-notes-hub-api)
 - [Frontend](https://github.com/C410lol/teacher-notes-hub-front)
 
 ### [Vassals](https://github.com/C410lol/vassals-jogo)
-Jogo 2D de plataforma desenvolvido em C++ e SFML, com implementação própria da estrutura da engine, fases, personagens, inimigos e obstáculos.
+A 2D platform game developed with C++ and SFML, featuring a custom game engine structure, levels, characters, enemies, and obstacles.
 
 ### [Vacation Planner](https://github.com/C410lol/vacations)
-Aplicação web para organização e escolha de períodos de férias, com frontend em Vue.js e backend em Node.js/Express integrado ao MongoDB.
+A web application for organizing and choosing vacation periods, with a Vue.js frontend and a Node.js/Express backend integrated with MongoDB.
 
 ### [SO Simulator](https://github.com/C410lol/so_simulator)
-Simulador visual de escalonamento de tarefas, desenvolvido em C++20, com os algoritmos Rate Monotonic (RM) e Earliest Deadline First (EDF).
+A visual task scheduling simulator developed in C++20, implementing the Rate Monotonic (RM) and Earliest Deadline First (EDF) algorithms.
 
-## 📫 Contato
+## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/caio-gomes-barbosa)
 - [GitHub](https://github.com/C410lol)
