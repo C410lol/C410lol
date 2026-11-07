@@ -1,6 +1,6 @@
 # Olá, eu sou Caio Gomes 👋
 
-🎓 Estudante de **Sistemas de Informação na UTFPR**, com conclusão prevista para dezembro de 2028.
+🎓 Estudante de **Sistemas de Informação na UTFPR**.
 
 💻 Tenho interesse em desenvolvimento de software, especialmente no desenvolvimento **Back-end com Java e Spring Boot**. Gosto de transformar ideias em aplicações funcionais e de aprender por meio de projetos práticos, explorando também desenvolvimento Front-end e C++.
 
